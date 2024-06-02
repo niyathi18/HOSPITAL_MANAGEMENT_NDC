@@ -6,7 +6,10 @@ const Hero = ({ title, imageUrl }) => {
       <div className="banner">
         <h1>{title}</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat nostrum et dolor laudantium odio iste magni libero doloremque vel impedit corporis ad veritatis quam tempore, architecto ducimus culpa, nulla sint repudiandae? Molestiae deserunt possimus, tempore magni fuga eum illo natus, asperiores sunt suscipit eveniet sint harum culpa cumque maiores quidem?
+          "You Deserve A Beautiful Smile"
+        </p>
+        <p>
+        Dentistry plays a crucial role in maintaining oral health, preventing diseases, and enhancing smiles. It relieves pain, treats conditions like cavities and gum disease, and improves overall well-being. By boosting confidence and promoting hygiene, dentistry contributes significantly to quality of life and the prevention of systemic health issues.
         </p>
       </div>
       <div className="banner">

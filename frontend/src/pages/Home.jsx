@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
         
-    <Hero title={"Welcome to JyoCare Medical Institute | Your trusted HealthCare provider"} imageUrl={"/hero.png"} />
+    <Hero title={"Welcome to Nandan Dental Clinic "} imageUrl={"/hero.png"} />
     <Biography imageUrl={"/about.png"} />
     <Departments/>
     <MessageForm/>

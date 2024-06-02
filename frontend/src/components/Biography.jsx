@@ -11,26 +11,11 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          Nandan Dental Clinic stands out as a beacon of excellence in dental care, where a team of highly skilled specialists caters to a variety of treatments. Each dentist is renowned in their field, ensuring that patients receive the best care possible. The clinic is distinguished not only by the quality of its services but also by its remarkably reasonable prices, making top-notch dental care accessible to all.
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
-          </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>The visionary behind Nandan Dental Clinic, Jyothi Thirumala, has committed herself to prioritizing patient welfare over profit. She consistently sets minimal profit margins to lower treatment costs, ensuring that every rupee spent by the patients is truly valued. This compassionate approach particularly benefits elderly patients, who often receive treatments at significantly reduced prices.</p>
+          <p>Nandan Dental Clinic is a place where expertise meets empathy, offering exceptional dental services without the hefty price tag. Patients can trust that they are in good hands, receiving care that combines professionalism, affordability, and a genuine concern for their well-being.</p>
+          
         </div>
       </div>
     </>
