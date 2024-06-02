@@ -5,41 +5,38 @@ import "react-multi-carousel/lib/styles.css";
 const Departments = () => {
   const departmentsArray = [
     {
-      name: "Pediatrics",
-      imageUrl: "/departments/pedia.jpg",
+      name: "Oral Medicine",
+      imageUrl: "/departments/oralmed.jpg",
     },
     {
-      name: "Orthopedics",
-      imageUrl: "/departments/ortho.jpg",
+      name: "Endodontics",
+      imageUrl: "/departments/endo.jpg",
     },
     {
-      name: "Cardiology",
-      imageUrl: "/departments/cardio.jpg",
+      name: "Oral Surgeon",
+      imageUrl: "/departments/surgeon.jpg",
     },
     {
-      name: "Neurology",
-      imageUrl: "/departments/neuro.jpg",
+      name: "Prosthodontics",
+      imageUrl: "/departments/prostho.jpg",
     },
     {
-      name: "Oncology",
-      imageUrl: "/departments/onco.jpg",
+      name: "Periodontics",
+      imageUrl: "/departments/perio.jpg",
     },
     {
-      name: "Radiology",
-      imageUrl: "/departments/radio.jpg",
+      name: "Orthodontics",
+      imageUrl: "/departments/orth.jpg",
     },
     {
-      name: "Physical Therapy",
-      imageUrl: "/departments/therapy.jpg",
+      name: "Implantology",
+      imageUrl: "/departments/imp.jpg",
     },
     {
-      name: "Dermatology",
-      imageUrl: "/departments/derma.jpg",
+      name: "Cosmetic Dentistry",
+      imageUrl: "/departments/cos.jpg",
     },
-    {
-      name: "ENT",
-      imageUrl: "/departments/ent.jpg",
-    },
+   
   ];
 
   const responsive = {

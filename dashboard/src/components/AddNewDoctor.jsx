@@ -22,15 +22,14 @@ const AddNewDoctor = () => {
   const navigateTo = useNavigate();
 
   const departmentsArray = [
-    "Pediatrics",
-    "Orthopedics",
-    "Cardiology",
-    "Neurology",
-    "Oncology",
-    "Radiology",
-    "Physical Therapy",
-    "Dermatology",
-    "ENT",
+    "Oral Medicine",
+    "Endodontics",
+    "Oral Surgeon",
+    "Prosthodontics",
+    "Periodontics",
+    "Orthodontics",
+    "Implantology",
+    "Cosmetic Dentistry",
   ];
 
   const handleAvatar = (e) => {
